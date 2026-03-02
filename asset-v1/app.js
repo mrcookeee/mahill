@@ -84,20 +84,20 @@ var app = new function() {
         name: "?",
         src: "v1-b1-choir-hb.mp4",
         code: "1,2,3,4,5",
-        sound: "bonus-choir",
-        aspire: "aspire"
+        sound: "bonus-blank",
+        aspire: "aspire-blank"
     }, {
         name: "?",
         src: "v1-b2-sailor-hb.mp4",
         code: "6,7,8,9,10",
-        sound: "bonus-sailor",
-        aspire: "aspire-sailor"
+        sound: "bonus-blank",
+        aspire: "aspire-blank"
     }, {
         name: "?",
         src: "v1-b3-santa-hb.mp4",
         code: "11,12,13,14,15",
-        sound: "bonus-santa",
-        aspire: "aspire-santa"
+        sound: "bonus-blank",
+        aspire: "aspire-blank"
     }];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;
